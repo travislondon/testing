@@ -34,7 +34,7 @@ INSERT INTO S_DT_PROXY
 	'myInt',
 	'',
 	'',
-	'../../../../../DataTypeLibrary/models/DataTypeLibrary/Types/Types.xtuml');
+	'../../../../../DataTypeLibrary/models/DataTypeLibrary/test/test.xtuml');
 INSERT INTO PE_PE
 	VALUES ("4634403f-efae-4484-bff7-8007b58b7610",
 	1,
